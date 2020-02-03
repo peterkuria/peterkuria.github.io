@@ -10,3 +10,7 @@ Content for http://peterkuria.github.io
  in development you can use yarn develop and in production gatsby develop
 
 Note that the site work is in progress 👨🏻‍💻🧙
+
+## To-do
+
+Deploy to AWS Appsync and to netlify
