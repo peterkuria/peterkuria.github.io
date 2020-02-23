@@ -13,4 +13,5 @@ Note that the site work is in progress 👨🏻‍💻🧙
 
 ## To-do
 
-Deploy to AWS Appsync and to netlify
+1. Deploy to AWS Appsync and to netlify
+2. To add React-native mobile version
