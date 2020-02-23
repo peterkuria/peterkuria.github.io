@@ -34,7 +34,7 @@ const render = ({ allInstaNode: { edges } }) => (
           <a href={`https://www.instagram.com/p/${id}/`} rel="noopener">
             <ThumbnailStyled
               src={src}
-              alt={`Instagram image: ${caption} | @nihilismislove | Peter Kuria`}
+              alt={`Instagram image: ${caption} | @peterkuria1 | Peter Kuria`}
             />
           </a>
         </ItemStyled>
